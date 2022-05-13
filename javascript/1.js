@@ -1,0 +1,7 @@
+alert("Seja Bem Vindo")
+/prompt("digite seu nome")
+document.write("Iniciando en JavaScript")
+resp=confirm("Será que vai chover?")
+alert("Um retorno de carro\bem no meio desta lina")
+alert("Isto não saiu como deveria!\disse ela")
+alert("esta linha tem tubulação\taqui")

@@ -1,0 +1,12 @@
+document.write("<p><b>"+ "Usando o método toUpperCase"+"</p></b>");
+A= new String ("Olá pessoal!");
+B= new String ("Sejam bem vindos ao Javascript");
+document.write(A.toUpperCase());
+document.write(B.toUpperCase());
+document.write("<p><b>"+ "você poderá usar:" + "</p></b>");
+document.write("<p>" + A.toUpperCase() + B.toUpperCase()+ "</p>");
+document.write("<p><b>"+ "Usando o método toUpperCase() + B.toLowerCase" + "<p/></b>");
+document.write(A.toLowerCase());
+document.write(B.toLowerCase());
+document.write("<p><b>"+ "você poderá usar:" + "</p><b>");
+document.write("<p>"+A.toLowerCase()+ B.toLowerCase() +"</p>");
